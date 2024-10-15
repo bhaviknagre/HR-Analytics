@@ -41,7 +41,7 @@ This project involves an in-depth analysis of employee attendance and leave patt
 - Techniques: DAX Queries, Filtering, Area Charts, Matrix Tables, Table Measures
   
 # Link To Dashboard
-https://app.powerbi.com/groups/me/reports/88137ab6-ef89-4994-8600-9056e4761c9e/f08c281c30e34403c701?experience=power-bi
+[https://app.powerbi.com/groups/me/reports/88137ab6-ef89-4994-8600-9056e4761c9e/f08c281c30e34403c701?experience=power-bi](https://app.powerbi.com/groups/me/reports/88137ab6-ef89-4994-8600-9056e4761c9e/f08c281c30e34403c701?experience=power-bi)
 
 # Dashboard Visuals
 ![HR Analysis](hr_visual.png)
